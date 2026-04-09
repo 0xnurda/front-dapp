@@ -24,9 +24,6 @@ npm install
 npm install @solana/web3.js @solana/spl-token
 npm install --save-dev vite-plugin-node-polyfills
 
-# 3. Заменить файлы
-# Скопировать App.tsx → src/App.tsx
-# Скопировать App.css → src/App.css
 ```
 
 ---
